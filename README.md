@@ -1,1 +1,23 @@
 # Privacy-Policy
+Privatlivspolitik — Teksthjælper
+
+**Sidst opdateret:** 18-09-2025
+
+Denne udvidelse “Teksthjælper" er udviklet til at hjælpe brugere med at analysere tekst, svare på spørgsmål og løse opgaver i forskellige fag.
+
+Indsamling og brug af data
+- Udvidelsen sender kun den tekst og de billeder, som du selv indtaster eller uploader, til OpenAI’s API for at generere svar.  
+- Ingen personligt identificerbare oplysninger gemmes.  
+- Som udvikler har jeg ingen adgang til at lagre eller se brugerdata.
+
+Datahåndtering
+- Al databehandling sker midlertidigt gennem OpenAI’s API.  
+- Data opbevares ikke permanent af denne udvidelse.  
+- Chrome’s lokale storage bruges kun til at gemme dine indstillinger (f.eks. proxy-URL eller tidligere input).  
+
+Deling af data
+- Dine oplysninger deles ikke med tredjeparter, ud over det nødvendige kald til OpenAI’s API for at levere funktionaliteten.
+
+Kontakt
+Hvis du har spørgsmål til denne privatlivspolitik, kan du kontakte:  
+📧 Isa.m.holtz@gmail.com
